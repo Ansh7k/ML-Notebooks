@@ -32,6 +32,23 @@ ML-Notebooks/
 | Normalization | vid 25 | MinMaxScaler, StandardScaler, feature scaling |
 | End-to-End ML Pipeline | vid 13 | Full pipeline: EDA → preprocessing → model → evaluation |
 
+## Progress Tracker
+
+| # | Topic | Status |
+|---|-------|--------|
+| Vid 13 | End-to-End ML Pipeline | ✅ Done |
+| Vid 17 | APIs & Data Fetching | ✅ Done |
+| Vid 18 | Web Scraping | ✅ Done |
+| Vid 19 | Questions to Ask with Data | ✅ Done |
+| Vid 20 | Univariate EDA | ✅ Done |
+| Vid 21 | Bivariate & Multivariate EDA | ✅ Done |
+| Vid 22 | Pandas Profiling | ✅ Done |
+| Vid 25 | Normalization & Scaling | ✅ Done |
+| Vid 26–40 | Feature Engineering & Selection | 🔄 In Progress |
+| Vid 41–60 | Supervised Learning Algorithms | ⏳ Upcoming |
+| Vid 61–80 | Model Evaluation & Tuning | ⏳ Upcoming |
+| Vid 81–100 | Advanced Topics & Projects | ⏳ Upcoming |
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
